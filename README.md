@@ -1,9 +1,7 @@
-## Hi there 👋
-
+## Hi there, I'm Jonathan.
+I'm an IT undergraduate student working on building my portfolio.
 <!--
-**orbitronhd/orbitronhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
