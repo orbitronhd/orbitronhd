@@ -1,5 +1,7 @@
 ## Hi there, I'm Jonathan.
 I'm an IT undergraduate student working on building my portfolio.
+
+![Orbitron's Metrics](/github-metrics.svg)
 <!--
 
 
