@@ -1,6 +1,7 @@
 ## Hi there, I'm Jonathan.
 I'm an IT undergraduate student working on building my portfolio.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orbitronhd)](https://github.com/orbitronhd/github-readme-stats)
 <!--
 
 
