@@ -2,7 +2,7 @@
   Hey, I'm Jonathan. 👋
 </h1>
 <h3 align="center">
-  I'm an IT undergraduate student working on building my portfolio.
+  I'm an IT undergraduate student working on my portfolio.
 </h3>
 
 <div align="center">
