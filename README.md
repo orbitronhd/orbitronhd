@@ -7,7 +7,7 @@
 
 ## Ongoing Projects
 
-### 💊 [Dose](https://github.com/orbitronhd-org/dose)  
+### [Dose](https://github.com/orbitronhd-org/dose)  
 Simple and modern medicine intake tracker.  
 ⏱️ 2025-present · Flutter
 
