@@ -2,7 +2,7 @@
   Hey, I'm Jonathan. 👋
 </h1>
 <h4 align="center">
-  I'm an IT undergraduate student working on my portfolio.
+  IT undergraduate student working on my portfolio.
 </h4>
 
 ## Ongoing Projects
