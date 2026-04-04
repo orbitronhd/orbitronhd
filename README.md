@@ -13,7 +13,7 @@ Simple and modern medicine intake tracker.
 
 <div align>
    
-![](https://github-readme-stats.vercel.app/api?username=orbitronhd&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
+![](https://github-readme-stats.shion.dev/api?username=orbitronhd&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
 ![](https://streak-stats.demolab.com?user=orbitronhd&theme=dark&hide_border=true)
 
 </div>
