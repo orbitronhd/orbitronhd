@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey, I'm Jonathan. 👋
+  Hey, I'm Jonathan. 👋🏼
 </h1>
 <h4 align="center">
   IT undergraduate student working on my portfolio.
