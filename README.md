@@ -7,7 +7,7 @@
 
 ## Ongoing Projects
 
-### Explore [orbitronhd-org](https://github.com/orbitronhd-org/), where we build user-first apps!
+### Explore [zencil](https://github.com/zencil/), where we build FOSS apps!
 
 <div align>
    
