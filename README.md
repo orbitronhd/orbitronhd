@@ -1,11 +1,9 @@
-<h1 align="center">
+<h1>
   Hey, I'm Jonathan. 👋🏼
 </h1>
-<h4 align="center">
+<h4>
   IT undergraduate student working on my portfolio.
 </h4>
-
-## Ongoing Projects
 
 ### Explore [zencil](https://github.com/zencil/), where we build FOSS apps!
 
